@@ -1,4 +1,23 @@
-# [AdminLTE - Bootstrap 5 Admin Dashboard](https://adminlte.io)
+# Tutorial Plus 05 Bootstrap
+
+### Introduction
+In this tutorial exercise, we will learn using the video tutorial “Learn How to Code Using Bootstrap 5 Tutorial 2023!” by Coding With JayBird (https://www.youtube.com/watch?v=g9b4LjYrsUQ).
+Exercises
+1.	Watch the video tutorial linked above.
+2.	Design an administrator portal using Bootstrap as illustrated below.
+
+
+![image](https://github.com/ninguest/laravel-email-client/assets/71936949/89d01267-429e-4fa2-be58-04e8224839b3)
+
+Source: ThemeWagon
+
+
+
+# My Submission
+![image](https://github.com/ninguest/laravel-email-client/assets/71936949/86433eba-c132-44e5-8f51-58943a2af539)
+
+
+# Reference from [AdminLTE - Bootstrap 5 Admin Dashboard](https://adminlte.io)
 
 [![npm version](https://img.shields.io/npm/v/admin-lte/latest.svg)](https://www.npmjs.com/package/admin-lte)
 [![Packagist](https://img.shields.io/packagist/v/almasaeed2010/adminlte.svg)](https://packagist.org/packages/almasaeed2010/adminlte)
